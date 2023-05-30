@@ -1,0 +1,8 @@
+C:\Users\TNQ\Desktop\stringrev\bin\Debug\stringrev.exe.config
+C:\Users\TNQ\Desktop\stringrev\bin\Debug\stringrev.exe
+C:\Users\TNQ\Desktop\stringrev\bin\Debug\stringrev.pdb
+C:\Users\TNQ\Desktop\stringrev\obj\Debug\stringrev.csproj.AssemblyReference.cache
+C:\Users\TNQ\Desktop\stringrev\obj\Debug\stringrev.csproj.SuggestedBindingRedirects.cache
+C:\Users\TNQ\Desktop\stringrev\obj\Debug\stringrev.csproj.CoreCompileInputs.cache
+C:\Users\TNQ\Desktop\stringrev\obj\Debug\stringrev.exe
+C:\Users\TNQ\Desktop\stringrev\obj\Debug\stringrev.pdb
