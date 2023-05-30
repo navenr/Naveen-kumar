@@ -1,0 +1,3 @@
+C:\Users\TNQ\Desktop\Selenium\obj\Debug\Selenium.csproj.AssemblyReference.cache
+C:\Users\TNQ\Desktop\Selenium\obj\Debug\Selenium.csproj.SuggestedBindingRedirects.cache
+C:\Users\TNQ\Desktop\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
